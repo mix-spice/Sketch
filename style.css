@@ -29,6 +29,7 @@ body{
     background: #111;
     background-image: repeating-linear-gradient(0deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 8px);
    
+   
 }
     
 p{
@@ -201,7 +202,7 @@ button.active {
 
     #mainDiv{
     display:grid;
-    grid-template-rows: 80px 500px;
+    grid-template-rows: 100px 530px;
     row-gap: 10px;
         
     }
